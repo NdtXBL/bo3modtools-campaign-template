@@ -1,0 +1,17 @@
+>class,cp_mod_level
+>group,modtools
+
+col_map,maps/cp/template.d3dbsp
+gfx_map,maps/cp/template.d3dbsp
+
+scriptparsetree,scripts/cp/template.gsc
+scriptparsetree,scripts/cp/template_sound.gsc
+scriptparsetree,scripts/cp/template_fx.gsc
+
+scriptparsetree,scripts/cp/template.csc
+scriptparsetree,scripts/cp/template_sound.csc
+scriptparsetree,scripts/cp/template_fx.csc
+
+xmodel,skybox_default_day
+
+sound,template
